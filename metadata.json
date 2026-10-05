@@ -1,0 +1,6 @@
+{
+  "name": "CoalGuard AI - Smart Governance & Compliance System",
+  "description": "AI-based smart governance and compliance monitoring system for coal mines, developed for Ministry of Coal and Coal India Limited for SIH 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
